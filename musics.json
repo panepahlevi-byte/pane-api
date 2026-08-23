@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "artist": "Geisha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/63/15/db6315b5-0745-31ec-84a4-d0dd3b4c5f08/24UMGIM63169.rgb.jpg/316x316bf.webp",
+    "title": "Love Recalls - EP",
+    "embed": "https://embed.music.apple.com/us/album/love-recalls-ep/1751668654"
+  },
+  {
+    "id": 2,
+    "artist": "Dewa 19",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/8e/b5/26/8eb52656-80d9-46cf-6c16-f04ca59cae95/Job2dd6c994-1054-4a48-8586-b940035d8911-154302017-PreviewImage_preview_image_nonvideo_sdr-Time1692119288603.png/316x316bb.webp",
+    "title": "Aku Milikmu",
+    "embed": "https://embed.music.apple.com/us/album/format-masa-depan/534882584"
+  },
+  {
+    "id": 3,
+    "artist": "Juicy Luicy",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/0c/be/260cbe21-9d2d-a2ab-3391-f8fde6ad6840/198704005169_Cover.jpg/316x316bb.webp",
+    "title": "Nonfiksi",
+    "embed": "https://embed.music.apple.com/us/album/nonfiksi/1749497820"
+  },
+  {
+    "id": 4,
+    "artist": "Taylor Swift",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b9/be/d7/b9bed7ac-76d6-a873-0b29-9e65b2dff008/OBJECT_PROXY1d904c3b-4b00-4dee-b7de-d66c2b27ba20_KEY_FRAME_OUTPUT_0_OBJECT_PROXY1d904c3b-4b00-4dee-b7de-d66c2b27ba20.png/316x316bb.webp",
+    "title": "Blank Space",
+    "embed": "https://embed.music.apple.com/us/album/1989/1440935467"
+  },
+  {
+    "id": 5,
+    "artist": "Nadin Amizah",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/10/9b/1d109b17-1bbf-1894-e774-4d9ad6baa7b3/cover.jpg/316x316bb.webp",
+    "title": "Selamat Ulang Tahun",
+    "embed": "https://embed.music.apple.com/us/album/selamat-ulang-tahun/1512860740"
+  },
+  {
+    "id": 6,
+    "artist": "Pamungkas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/42/c7/f442c726-f2a1-c045-829e-45f33f2fe1d0/3615939061533.png/316x316bb.webp",
+    "title": "To The Bone",
+    "embed": "https://embed.music.apple.com/us/album/flying-solo/1787344762"
+  },
+  {
+    "id": 7,
+    "artist": "Tulus",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/18/10/6f1810e0-2d6a-a456-1362-de607c70408a/cover.jpg/316x316bb.webp",
+    "title": "Manusia",
+    "embed": "https://embed.music.apple.com/us/album/manusia/1612163750"
+  },
+  {
+    "id": 8,
+    "artist": "Nadhif Basalamah",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/70/99/1770994d-96f8-25d4-7aa9-4d8075f7912e/cover.jpg/316x316bb.webp",
+    "title": "Laman Berikutnya",
+    "embed": "https://embed.music.apple.com/us/album/nadhif-laman-berikutnya/1820141683"
+  },
+  {
+    "id": 9,
+    "artist": "Yura Yunita",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/65/4a/46/654a46ed-33ea-d3c8-1464-a672bf4b7ec0/cover.jpg/316x316bb.webp",
+    "title": "Cinta Dan Rahasia",
+    "embed": "https://embed.music.apple.com/us/album/yura/853560076"
+  },
+  {
+    "id": 10,
+    "artist": "Zara Larsson",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/e6/3b/74e63bb4-d593-f926-85c7-df3ca43fcf3f/886446183473.jpg/316x316bb.webp",
+    "title": "Lush Life",
+    "embed": "https://embed.music.apple.com/us/album/so-good/1201058048"
+  },
+  {
+    "id": 11,
+    "artist": "Sheila on 7",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/8e/55/cb8e553a-15cb-411b-6a81-b49794bb3c07/mzi.ayzejinn.jpg/316x316bb.webp",
+    "title": "Pejantan Tangguh",
+    "embed": "https://embed.music.apple.com/us/album/pejantan-tangguh/326505228"
+  },
+  {
+    "id": 12,
+    "artist": "Bryan Adams",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/10/6b/67106b63-8edc-ef66-78f2-ad85b275074f/06UMGIM28735.rgb.jpg/316x316bf.webp",
+    "title": "Reckless",
+    "embed": "https://embed.music.apple.com/us/album/reckless/1676125918"
+  },
+  {
+    "id": 13,
+    "artist": "Aziz Hendra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/24/c3/e424c356-6cb6-89bd-2be9-da974aff2ee1/196873016436.jpg/316x316bb.webp",
+    "title": "Somebody's Pleasure",
+    "embed": "https://embed.music.apple.com/us/album/somebodys-pleasure-ep/1804307636"
+  },
+  {
+    "id": 14,
+    "artist": "Charlie Puth",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/316x316bb.webp",
+    "title": "Nine Track Mind",
+    "embed": "https://embed.music.apple.com/us/album/nine-track-mind/1031416178"
+  },
+  {
+    "id": 15,
+    "artist": "Ungu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/d4/6f/19d46f7d-6ef9-3948-f93c-3e68b5ff2325/5063752189633.jpg/316x316bb.webp",
+    "title": "1000 Kisah Satu Hati",
+    "embed": "https://embed.music.apple.com/us/album/1000-kisah-satu-hati/1895784807"
+  },
+  {
+    "id": 16,
+    "artist": "Maroon 5",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/5b/95/1b5b95d1-b7f2-f2e9-acb2-22f558017056/12UMGIM26178.rgb.jpg/316x316bb.webp",
+    "title": "Overexposed (Deluxe Version)",
+    "embed": "https://embed.music.apple.com/us/album/overexposed-deluxe-version/1440808308"
+  },
+  {
+    "id": 17,
+    "artist": "Tove Lo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/2d/20/b92d205d-f9fc-13cc-c714-14aed93081b4/15UMGIM46170.rgb.jpg/316x316bb.webp",
+    "title": "Queen of the Clouds (Blueprint Edition)",
+    "embed": "https://embed.music.apple.com/us/album/queen-of-the-clouds-blueprint-edition/1443336749"
+  },
+  {
+    "id": 18,
+    "artist": "Slank",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6b/8e/7d/6b8e7d7b-da05-d745-c8a2-1c0dcbcf111c/190295109318.jpg/316x316bb.webp",
+    "title": "Suit - Suit... He... He... (Gadis Sexy)",
+    "embed": "https://embed.music.apple.com/us/album/suit-suit-he-he-gadis-sexy/1550372168"
+  },
+  {
+    "id": 19,
+    "artist": "Anji",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/90/99/5e9099c8-e760-d990-2ed0-633630a038b2/3610155615652_Cover.jpg/316x316bb.webp",
+    "title": "Luar Biasa",
+    "embed": "https://embed.music.apple.com/us/album/luar-biasa/1173744251"
+  },
+  {
+    "id": 20,
+    "artist": "D'Bagindas",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/42/55/384255a3-36a8-896d-f410-df6259441f68/25UMGIM89687.rgb.jpg/316x316bb.webp",
+    "title": "C.I.N.T.A.",
+    "embed": "https://embed.music.apple.com/us/album/c-i-n-t-a/1826929679"
+  },
+  {
+    "id": 21,
+    "artist": "Alan Walker",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/3_LWRUNFJTxcEd6Ibp8tdQ/316x316cc.webp",
+    "title": "Alan Walker Essentials",
+    "embed": "https://embed.music.apple.com/us/playlist/alan-walker-essentials/pl.6e374be22e00430e9cacbb44d304df45"
+  },
+  {
+    "id": 22,
+    "artist": "Katy Perry",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/f5/44/ce/f544ceea-962c-5d7e-18c2-335cf1fa3e2f/Job01cd1e4d-a5ad-406d-9f56-e6c71bf23786-151190437-PreviewImage_preview_image_nonvideo_sdr-Time1686241868837.png/316x316bb.webp",
+    "title": "Teenage Dream",
+    "embed": "https://embed.music.apple.com/us/album/teenage-dream/716192216"
+  },
+  {
+    "id": 23,
+    "artist": "Marsada Band",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/61/0d/52/610d5248-2cbc-7ec7-8d5d-1cb8cc719f27/669910985953.jpg/316x316bb.webp",
+    "title": "Pulo Samosir",
+    "embed": "https://embed.music.apple.com/us/album/pulo-samosir/125005044"
+  },
+  {
+    "id": 24,
+    "artist": "Bon Jovi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/ad/05/d5ad0586-8108-8da1-6017-3e915f26ad0b/14UMGIM44520.rgb.jpg/316x316bb.webp",
+    "title": "Crush",
+    "embed": "https://embed.music.apple.com/us/album/crush/1440813234"
+  },
+  {
+    "id": 25,
+    "artist": "Lyla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/c3/cd/98c3cd00-4d4f-978e-95cc-50f5695ad148/21UM1IM19189.rgb.jpg/316x316bb.webp",
+    "title": "Dunia Sempurna",
+    "embed": "https://embed.music.apple.com/us/album/dunia-sempurna/1628526101"
+  },
+  {
+    "id": 26,
+    "artist": "NIKI",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/b6/51/19b6510e-4edb-1bc5-1aff-9d21c889cdae/190296084300.jpg/316x316bb.webp",
+    "title": "Nicole",
+    "embed": "https://embed.music.apple.com/us/album/nicole/1766383174"
+  },
+  {
+    "id": 27,
+    "artist": "Dhruv",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/f1/ea/ff/f1eaff03-fcc2-842e-7ab9-7c64d57208b9/Job617c25ff-f048-4ec0-bd9c-de968985a0eb-128181163-PreviewImage_preview_image_nonvideo_sdr-Time1643310443387.png/316x316bb.webp",
+    "title": "Rapunzel",
+    "embed": "https://embed.music.apple.com/us/album/rapunzel/1604470418"
+  },
+  {
+    "id": 24,
+    "artist": "Bon Jovi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/ad/05/d5ad0586-8108-8da1-6017-3e915f26ad0b/14UMGIM44520.rgb.jpg/316x316bb.webp",
+    "title": "Crush",
+    "embed": "https://embed.music.apple.com/us/album/crush/1440813234"
+  },
+  {
+    "id": 25,
+    "artist": "Lyla",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/c3/cd/98c3cd00-4d4f-978e-95cc-50f5695ad148/21UM1IM19189.rgb.jpg/316x316bb.webp",
+    "title": "Dunia Sempurna",
+    "embed": "https://embed.music.apple.com/us/album/dunia-sempurna/1628526101"
+  },
+  {
+    "id": 26,
+    "artist": "NIKI",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/b6/51/19b6510e-4edb-1bc5-1aff-9d21c889cdae/190296084300.jpg/316x316bb.webp",
+    "title": "Nicole",
+    "embed": "https://embed.music.apple.com/us/album/nicole/1766383174"
+  },
+  {
+    "id": 27,
+    "artist": "Dhruv",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/f1/ea/ff/f1eaff03-fcc2-842e-7ab9-7c64d57208b9/Job617c25ff-f048-4ec0-bd9c-de968985a0eb-128181163-PreviewImage_preview_image_nonvideo_sdr-Time1643310443387.png/316x316bb.webp",
+    "title": "Rapunzel",
+    "embed": "https://embed.music.apple.com/us/album/rapunzel/1604470418"
+  },
+  {
+    "id": 28,
+    "artist": "Oasis",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/316x316bb.webp",
+    "title": "(What's the Story) Morning Glory?",
+    "embed": "https://embed.music.apple.com/us/album/whats-the-story-morning-glory/1517447039"
+  },
+  {
+    "id": 28,
+    "artist": "Oasis",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/316x316bb.webp",
+    "title": "(What's the Story) Morning Glory?",
+    "embed": "https://embed.music.apple.com/us/album/whats-the-story-morning-glory/1517447039"
+  },
+  {
+    "id": 29,
+    "artist": "Andra and The Backbone",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/76/9f/77769f6a-bdba-09ee-2d22-ba89fdc19010/190296746949.jpg/316x316bb.webp",
+    "title": "Andra and The Backbone",
+    "embed": "https://embed.music.apple.com/us/album/andra-the-backbone/1566337626"
+  },
+  {
+    "id": 30,
+    "artist": "Neck Deep",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/s2tSDB9Z0os9UfleB1Lcaw/316x316cc.webp",
+    "title": "Neck Deep Essentials",
+    "embed": "https://embed.music.apple.com/us/playlist/neck-deep-essentials/pl.503e8ad3d4b649c4ae91ad681261d418"
+  },
+  {
+    "id": 31,
+    "artist": "Fifth Harmony",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/e0/57/98e0573f-52c5-b8bf-f2cf-6246d055c60d/dj.kmbgqmzy.jpg/316x316bb.webp",
+    "title": "Reflection (Deluxe)",
+    "embed": "https://embed.music.apple.com/us/album/reflection-deluxe/909767577"
+  },
+  {
+    "id": 32,
+    "artist": "Chryrtal",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/06/16/8c06167d-14ce-161e-9ab9-2c3e5453e6c8/25UMGIM52929.rgb.jpg/316x316bb.webp",
+    "title": "The Days (Remixes)",
+    "embed": "https://embed.music.apple.com/us/album/the-days-remixes/1806340222"
+  },
+  {
+    "id": 33,
+    "artist": "One Direction",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/66/75/88/6675882c-3685-2b6b-f9de-c6d3e06602b5/dj.fuklqvvg.jpg/316x316bb.webp",
+    "title": "Midnight Memories (Deluxe Edition)",
+    "embed": "https://embed.music.apple.com/us/album/midnight-memories-deluxe-edition/695318295"
+  },
+  {
+    "id": 34,
+    "artist": "Bernadya",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/66/6a/4f/666a4fea-8c4e-8021-eb0a-f29f210239be/Jobbd5caf9d-745e-4c37-97e5-950f6dcaea84-169276698-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_329442602_1790121659-Time1717350527124.png/316x316bb.webp",
+    "title": "Sialnya, Hidup Harus Tetap Berjalan",
+    "embed": "https://embed.music.apple.com/id/album/sialnya-hidup-harus-tetap-berjalan/1749876880"
+  },
+  {
+    "id": 35,
+    "artist": "D`MASIV",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c7/05/50c70557-dcc3-16be-59c4-1f71e6320f34/24UMGIM47804.rgb.jpg/316x316bb.webp",
+    "title": "8",
+    "embed": "https://embed.music.apple.com/id/album/8/1743672419"
+  },
+  {
+    "id": 36,
+    "artist": "Dongker",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/f1/1a/b0f11a67-7f32-0337-71b1-fffc84cead75/196922981128_Cover.jpg/316x316bb.webp",
+    "title": "Ceriwis Necis",
+    "embed": "https://embed.music.apple.com/id/album/ceriwis-necis/1746551711"
+  },
+  {
+    "id": 37,
+    "artist": "Sal Priadi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/81/58/09/815809fa-98b7-76dc-2a42-8c4b088b3aa0/Jobac2341fb-aea6-416c-a312-2095fb09118e-168405272-PreviewImage_preview_image_nonvideo_sdr-Time1716225856888.png/316x316bb.webp",
+    "title": "MARKERS AND SUCH PENS FLASHDISKS",
+    "embed": "https://embed.music.apple.com/id/album/markers-and-such-pens-flashdisks/1737266457"
+  },
+  {
+    "id": 38,
+    "artist": "CVX",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/4b/3d/bc4b3df5-56db-597c-e91b-3d8eca0e4881/5021732367822.jpg/316x316bb.webp",
+    "title": "FRACTURE",
+    "embed": "https://embed.music.apple.com/id/album/fracture/1744115768"
+  },
+  {
+    "id": 39,
+    "artist": "Suara Kayu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/72/aa/9972aae1-78a6-d539-ed99-4c7ab75577d9/5021732423931.jpg/316x316bb.webp",
+    "title": "Banyak Canda, Tapi Serius",
+    "embed": "https://embed.music.apple.com/id/album/banyak-canda-tapi-serius/1755352376"
+  },
+  {
+    "id": 40,
+    "artist": "The Jansen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/1a/01/641a0153-e950-c752-d75c-4da281b9dcd4/cover.jpg/316x316bb.webp",
+    "title": "Banal Semakin Binal",
+    "embed": "https://embed.music.apple.com/us/album/banal-semakin-binal/1826179940"
+  },
+  {
+    "id": 41,
+    "artist": "JKT48",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/21/24/cd/2124cdda-637f-9992-2ced-077341164ab9/cover.jpg/316x316bb.webp",
+    "title": "Special Stage Banzai",
+    "embed": "https://embed.music.apple.com/id/album/special-stage-banzai/1736669379"
+  },
+  {
+    "id": 43,
+    "artist": "Arctic Monkeys",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9e/64/76/9e647612-01e3-b046-1e43-99a73dc2b393/5021732248855.jpg/316x316bb.webp",
+    "title": "AM",
+    "embed": "https://embed.music.apple.com/us/album/am/571617320"
+  },
+  {
+    "id": 44,
+    "artist": "Jangar",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/3d/36/493d3657-0949-ec69-337c-9bbc89cfcb74/3616401183906.jpg/316x316bb.webp",
+    "title": "Jelang Malam",
+    "embed": "https://embed.music.apple.com/us/album/jelang-malam/1802807912"
+  },
+  {
+    "id": 45,
+    "artist": "Aruma",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/55/83/ed/5583ed03-b0ed-9a87-3b61-1dcfef6c7b94/196871852067.jpg/316x316bb.webp",
+    "title": "Bertumbuh - EP",
+    "embed": "https://embed.music.apple.com/id/album/bertumbuh-ep/1731959844"
+  }
+]
