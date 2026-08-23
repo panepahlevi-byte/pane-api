@@ -6,14 +6,13 @@
     "title": "Love Recalls - EP",
     "embed": "https://embed.music.apple.com/us/album/love-recalls-ep/1751668654"
   },
-    {
+  {
     "id": 2,
     "artist": "Dewa 19",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyVifmxKK9use9cevpFLMeDY5Xf3gtvCXV7qMQfHqLw&s=10",
     "title": "Aku Milikmu",
     "embed": "https://embed.music.apple.com/us/album/format-masa-depan/534882584"
   },
-
   {
     "id": 3,
     "artist": "Juicy Luicy",
@@ -161,7 +160,7 @@
     "title": "Pulo Samosir",
     "embed": "https://embed.music.apple.com/us/album/pulo-samosir/125005044"
   },
-   {
+  {
     "id": 24,
     "artist": "Bon Jovi",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/ad/05/d5ad0586-8108-8da1-6017-3e915f26ad0b/14UMGIM44520.rgb.jpg/316x316bb.webp",
@@ -189,7 +188,6 @@
     "title": "Rapunzel",
     "embed": "https://embed.music.apple.com/us/album/rapunzel/1604470418"
   },
- 
   {
     "id": 28,
     "artist": "Oasis",
@@ -289,32 +287,59 @@
     "embed": "https://embed.music.apple.com/id/album/special-stage-banzai/1736669379"
   },
   {
-    "id": 42,
+    "id": 43,
     "artist": "Arctic Monkeys",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9e/64/76/9e647612-01e3-b046-1e43-99a73dc2b393/5021732248855.jpg/316x316bb.webp",
     "title": "AM",
     "embed": "https://embed.music.apple.com/us/album/am/571617320"
   },
   {
-    "id": 43,
+    "id": 44,
     "artist": "Jangar",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/3d/36/493d3657-0949-ec69-337c-9bbc89cfcb74/3616401183906.jpg/316x316bb.webp",
     "title": "Jelang Malam",
     "embed": "https://embed.music.apple.com/us/album/jelang-malam/1802807912"
   },
   {
-    "id": 44,
+    "id": 45,
     "artist": "Aruma",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/55/83/ed/5583ed03-b0ed-9a87-3b61-1dcfef6c7b94/196871852067.jpg/316x316bb.webp",
     "title": "Bertumbuh - EP",
     "embed": "https://embed.music.apple.com/id/album/bertumbuh-ep/1731959844"
   },
   {
-  "id": 45,
-  "artist": "510",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/75/d5/3c75d5ff-1111-dcaf-ae70-63b897b14f45/cover.jpg/592x592bb.webp",
-  "title": "Origin",
-  "embed": "https://embed.music.apple.com/us/album/origin/1871252927"
-}
-
+    "id": 46,
+    "artist": "Reality Club",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/65/d3/7b65d37c-44dc-d96f-be55-ef0db3483c42/24UMGIM05250.rgb.jpg/316x316bb.webp",
+    "title": "What Do You Really Know",
+    "embed": "https://embed.music.apple.com/us/album/what-do-you-really-know/1747623135"
+  },
+  {
+    "id": 47,
+    "artist": "Reality Club",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/67/2b/56/672b56d1-c37e-0c3e-b450-cb03915b189f/Jobfc0b7f4d-eeee-4a2e-8b6d-023f1d026276-150622173-PreviewImage_preview_image_nonvideo_sdr-Time1685131948381.png/316x316bb.webp",
+    "title": "Reality Club Presents",
+    "embed": "https://embed.music.apple.com/us/album/reality-club-presents/1687588074"
+  },
+  {
+    "id": 48,
+    "artist": "Hindia",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/f8/d2/57f8d295-5ea9-f7b2-70ff-9494ce50fc5c/cover.jpg/316x316bb.webp",
+    "title": "Doves / 25 on Blank Canvas",
+    "embed": "https://embed.music.apple.com/us/album/doves-25-on-blank-canvas/1793295095"
+  },
+  {
+    "id": 49,
+    "artist": "Nidji",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/6b/5c/9d6b5c0b-81b6-e3c7-fa56-1fd59188cbdd/24UMGIM29040.rgb.jpg/316x316bb.webp",
+    "title": "5 cm (Original Motion Picture Soundtrack) - EP",
+    "embed": "https://embed.music.apple.com/us/album/5-cm-original-motion-picture-soundtrack-ep/1753304690"
+  },
+  {
+    "id": 50,
+    "artist": "The 1975",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c7/98/1fc7988e-0a39-5724-1390-e45246250e24/198704825934_Cover.jpg/316x316bb.webp",
+    "title": "Being Funny In A Foreign Language",
+    "embed": "https://embed.music.apple.com/us/album/being-funny-in-a-foreign-language/1850018862"
+  }
 ]
