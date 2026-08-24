@@ -421,10 +421,10 @@
   },
   {
     "id": 61,
-    "artist": "DJ Opus",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/41/b8/c641b816-1109-62db-bae7-945e69ba4440/cover.jpg/316x316bb.webp",
-    "title": "Odading Mang Oleh (Remix)",
-    "embed": "https://embed.music.apple.com/us/album/odading-mang-oleh-remix/1534647503"
+    "artist": "Blackpink",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrJf77eooKSM4xRx-58dqsTDjHStWZbsnembvu6Yqavuqu8-U9",
+    "title": "Deadline - EP",
+    "embed": "https://embed.music.apple.com/us/album/deadline-ep/1870046940"
   },
   {
     "id": 62,
@@ -467,5 +467,26 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5d0c4TyFxv9EVbaPIMDMYq1xAUZCByuewvRx4sMAhBg&s=10",
     "title": "Short n' Sweet",
     "embed": "https://embed.music.apple.com/us/album/short-n-sweet/1752214909"
+  },
+  {
+    "id": 68,
+    "artist": "Rebellion Rose",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/d1/5d/59d15d6d-eb93-51f3-6cdf-d0b711a3ef69/283052.jpg/316x316bb.webp",
+    "title": "The Champs",
+    "embed": "https://embed.music.apple.com/us/album/the-champs/6767625955"
+  },
+  {
+    "id": 69,
+    "artist": "Bts",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/316x316bb.webp",
+    "title": "Arirang",
+    "embed": "https://embed.music.apple.com/us/album/arirang/1868862375"
+  },
+  {
+    "id": 70,
+    "artist": "Lany",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/fc/fe/22fcfeb5-3bff-ad43-40d2-a4d6ca283a69/dj.numlumei.jpg/316x316bb.webp",
+    "title": "a beautiful blur",
+    "embed": "https://embed.music.apple.com/us/album/a-beautiful-blur/1690573503"
   }
 ]
