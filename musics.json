@@ -176,7 +176,7 @@
   },
   {
     "id": 26,
-    "artist": "NIKI",
+    "artist": "Niki",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/b6/51/19b6510e-4edb-1bc5-1aff-9d21c889cdae/190296084300.jpg/316x316bb.webp",
     "title": "Nicole",
     "embed": "https://embed.music.apple.com/us/album/nicole/1766383174"
@@ -349,8 +349,7 @@
     "title": "Being Funny In A Foreign Language",
     "embed": "https://embed.music.apple.com/us/album/being-funny-in-a-foreign-language/1850018862"
   },
-
-    {
+  {
     "id": 51,
     "artist": "Gigi",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/e4/1a/cbe41a03-1698-6e6a-cc66-7bf41f56f020/mzi.tykvtqjp.jpg/316x316bb.webp",
@@ -419,5 +418,54 @@
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ff/0d/37/ff0d37c4-ea63-a7f3-b216-b5df4ed5311d/075679865298.jpg/316x316bb.webp",
     "title": "8 Letters",
     "embed": "https://embed.music.apple.com/us/album/8-letters/1423280409"
+  },
+  {
+    "id": 61,
+    "artist": "DJ Opus",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/41/b8/c641b816-1109-62db-bae7-945e69ba4440/cover.jpg/316x316bb.webp",
+    "title": "Odading Mang Oleh (Remix)",
+    "embed": "https://embed.music.apple.com/us/album/odading-mang-oleh-remix/1534647503"
+  },
+  {
+    "id": 62,
+    "artist": "Rose",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/26/d6/0b/26d60bcc-ed21-eec6-c42b-da3a4851fd2e/Job3d482d83-464b-4315-8ad2-1773a4778a55-180122755-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_351965364_1966066099-Time1732136287378.png/316x316bb.webp",
+    "title": "rosie",
+    "embed": "https://embed.music.apple.com/us/album/rosie/1771105914"
+  },
+  {
+    "id": 63,
+    "artist": "Cortis",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/5f/47/9b5f4711-dc78-2dea-6721-d06709ea5121/198704992810_Cover.jpg/316x316bb.webp",
+    "title": "greengreen - EP",
+    "embed": "https://embed.music.apple.com/us/album/greengreen-ep/1887671065"
+  },
+  {
+    "id": 64,
+    "artist": "Bruno Mars",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAMnv61UtEvFwdr2bxMhEFJslGsRyu0tbNHAssx2DnQ&s",
+    "title": "Doo-Wops & Hooligans",
+    "embed": "https://embed.music.apple.com/us/album/doo-wops-hooligans/576654788"
+  },
+  {
+    "id": 65,
+    "artist": "Jennie",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a5/58/08/a5580877-9c87-efe3-479f-6716639741c0/Jobdb33ccea-4ea2-48e7-9030-2cf79f5b1a63-187430711-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_366914360_2078223053-Time1741291293295.png/316x316bb.webp",
+    "title": "Ruby",
+    "embed": "https://embed.music.apple.com/us/album/ruby/1795979743"
+  },
+  {
+    "id": 66,
+    "artist": "Iqro",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/da/83/87da8377-ecbc-b53f-9719-7fab3092fe80/3589989.jpg/316x316bb.webp",
+    "title": "Iqro",
+    "embed": "https://embed.music.apple.com/us/album/iqro/1894381175"
+  },
+  {
+    "id": 67,
+    "artist": "Sabrina Carpenter",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5d0c4TyFxv9EVbaPIMDMYq1xAUZCByuewvRx4sMAhBg&s=10",
+    "title": "Short n' Sweet",
+    "embed": "https://embed.music.apple.com/us/album/short-n-sweet/1752214909"
   }
 ]
