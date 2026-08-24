@@ -478,9 +478,9 @@
   {
     "id": 69,
     "artist": "Bts",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/316x316bb.webp",
-    "title": "Arirang",
-    "embed": "https://embed.music.apple.com/us/album/arirang/1868862375"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/316x316bb.webp",
+    "title": "Love Yourself 結 'Answer'",
+    "embed": "https://embed.music.apple.com/us/album/love-yourself-%E7%B5%90-answer/1598730614"
   },
   {
     "id": 70,
@@ -488,5 +488,13 @@
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/fc/fe/22fcfeb5-3bff-ad43-40d2-a4d6ca283a69/dj.numlumei.jpg/316x316bb.webp",
     "title": "a beautiful blur",
     "embed": "https://embed.music.apple.com/us/album/a-beautiful-blur/1690573503"
+  },
+  {
+    "id": 71,
+    "artist": "Bts",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/vawK14xvwS3pMKdukKjaGg/316x316cc.webp",
+    "title": "BTS Essentials",
+    "embed": "https://embed.music.apple.com/us/playlist/bts-essentials/pl.e5a782b2b5424d1bbd6b5b9ac04d09a0"
   }
+
 ]
