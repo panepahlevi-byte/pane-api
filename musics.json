@@ -495,6 +495,208 @@
     "image": "https://is1-ssl.mzstatic.com/image/thumb/vawK14xvwS3pMKdukKjaGg/316x316cc.webp",
     "title": "BTS Essentials",
     "embed": "https://embed.music.apple.com/us/playlist/bts-essentials/pl.e5a782b2b5424d1bbd6b5b9ac04d09a0"
+  },
+  {
+    "id": 72,
+    "artist": "Joon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/2d/61/162d617f-5768-633b-1b6a-6a02f0905def/56970.jpg/316x316bb.webp",
+    "title": "With Ease - Single",
+    "embed": "https://embed.music.apple.com/us/album/with-ease-single/1835043624"
+  },
+  {
+    "id": 73,
+    "artist": "Fireplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/02/6b/58026bf7-65a5-0316-9af2-e251aa77d980/198588341063.jpg/316x316bb.webp",
+    "title": "Blue Team",
+    "embed": "https://embed.music.apple.com/us/album/blue-team/1751291548"
+  },
+  {
+    "id": 74,
+    "artist": "Khalid",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/e2/9a/41/e29a415f-a1c5-5611-e7b7-089146f4d4ed/Jobcd850593-7273-4c09-a803-5baa96449e5b-129583991-PreviewImage_preview_image_nonvideo_sdr-Time1646848073380.png/316x316bb.webp",
+    "title": "American Teen",
+    "embed": "https://embed.music.apple.com/us/album/american-teen/1200868601"
+  },
+  {
+    "id": 75,
+    "artist": "Yung Kai",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5b/97/87/5b978796-1f72-6dc1-c81f-263f8b7220b8/Job20d56fba-1cfc-418c-9f3a-7b293404b011-201573061-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_394436934_2315504212-Time1756503458811.png/316x316bb.webp",
+    "title": "Stay With The Ocean I'll Find You",
+    "embed": "https://embed.music.apple.com/us/album/stay-with-the-ocean-ill-find-you/1835686346"
+  },
+  {
+    "id": 76,
+    "artist": "Hoobastank",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/00/ae/1700ae0f-ba70-bf48-df89-12ab614c83f2/10UMGIM21716.rgb.jpg/316x316bb.webp",
+    "title": "Best of Hoobastank",
+    "embed": "https://embed.music.apple.com/us/album/best-of-hoobastank/1440769594"
+  },
+  {
+    "id": 77,
+    "artist": "The Script",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/2d/c6/72/2dc6728e-fe24-c7b3-970c-a24d8af1e4b6/dj.tjxgsvhv.jpg/316x316bf.webp",
+    "title": "The Script (Deluxe)",
+    "embed": "https://embed.music.apple.com/us/album/the-script-deluxe/289076742"
+  },
+  {
+    "id": 78,
+    "artist": "Shawn Mendes",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/d4/de/e3d4def5-886e-da47-e1cf-568566510b53/15UMGIM62454.rgb.jpg/316x316bb.webp",
+    "title": "Handwritten (Revisited)",
+    "embed": "https://embed.music.apple.com/us/album/handwritten-revisited/1440843842"
+  },
+  {
+    "id": 79,
+    "artist": "Passenger",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/7e/28/9b7e2896-e049-1663-6791-e0111690ffc1/067003051361.png/316x316bb.webp",
+    "title": "All the Little Lights",
+    "embed": "https://embed.music.apple.com/us/album/all-the-little-lights/1623014082"
+  },
+  {
+    "id": 80,
+    "artist": "sombr",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a6/6b/a9/a66ba94c-47db-90b6-6977-eed20c9eb203/Job5240a96a-4e7d-4017-a3e3-92b9dea08eb9-200947000-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_393263771_2305453295-Time1755904644639.png/316x316bb.webp",
+    "title": "I Barely Know Her",
+    "embed": "https://embed.music.apple.com/us/album/i-barely-know-her/1832087626"
+  },
+  {
+    "id": 81,
+    "artist": "Ali Gatie",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cb/3e/31/cb3e3179-74b9-f0cc-7635-9db8f7b63312/225772.jpg/316x316bb.webp",
+    "title": "All the Things I Wish I Said",
+    "embed": "https://embed.music.apple.com/us/album/all-the-things-i-wish-i-said/1733075098"
+  },
+  {
+    "id": 82,
+    "artist": "Coldplay",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/be/b9/16/beb91686-2a3b-cc1c-99a3-4bd2188e2f00/Job5d1dfac5-46cc-4af0-be07-e9cc41ca4247-157156042-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_301767564_1582059200-Time1697229279731.png/316x316bb.webp",
+    "title": "Parachutes",
+    "embed": "https://embed.music.apple.com/us/album/parachutes/1122782080"
+  },
+  {
+    "id": 83,
+    "artist": "Paramore",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/97/17/049717b9-67ea-126b-7b3b-eaaa7f048dd8/dj.gczfwqsh.jpg/316x316bb.webp",
+    "title": "Brand New Eyes (Deluxe Version)",
+    "embed": "https://embed.music.apple.com/us/album/brand-new-eyes-deluxe-version/607337417"
+  },
+  {
+    "id": 84,
+    "artist": "Justin Bieber",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/81/17/e9/8117e9bf-283c-8b3b-697b-0a0addde92ab/Job67f35c56-4a93-4fbd-9e11-9a897bd0e09d-110110896-PreviewImage_PreviewImageIntermediate_preview_image_nonvideo_vfcs112147523-Time1616006080985.png/316x316bb.webp",
+    "title": "Justice",
+    "embed": "https://embed.music.apple.com/us/album/justice/1556175419"
+  },
+  {
+    "id": 85,
+    "artist": "Perunggu",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f9/d8/46f9d899-0194-e9f1-5ea0-c4c4719a53b7/3551441.jpg/316x316bb.webp",
+    "title": "Memorandum",
+    "embed": "https://embed.music.apple.com/us/album/memorandum/1867165025"
+  },
+  {
+    "id": 86,
+    "artist": "Zigaz",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/89/47/5989476d-46a5-f51e-f3cc-31a796a5e57c/cover.jpg/316x316bb.webp",
+    "title": "Zigaz",
+    "embed": "https://embed.music.apple.com/us/album/zigaz/1690590697"
+  },
+  {
+    "id": 87,
+    "artist": "Alex Crichton",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/68/80/db6880fb-9032-b17a-d082-6f00620c50c4/3b72e539-6ee5-430b-bea2-4e1c9cddd475.jpg/316x316bb.webp",
+    "title": "Merry Christmas I Miss You - Single",
+    "embed": "https://embed.music.apple.com/us/album/merry-christmas-i-miss-you-single/6784789928"
+  },
+  {
+    "id": 88,
+    "artist": "Goo Goo Dolls",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/9b/df/53/9bdf535d-ea8e-b46b-d9bb-a68031cccbac/Jobbbf81488-6b75-422d-9307-90473ea37ddc-132978421-PreviewImage_preview_image_nonvideo_sdr-Time1655306049287.png/316x316bb.webp",
+    "title": "Dizzy Up the Girl",
+    "embed": "https://embed.music.apple.com/us/album/dizzy-up-the-girl/1109658139"
+  },
+  {
+    "id": 89,
+    "artist": "Cup of Joe",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/e2/18/0be218a4-45ea-5c35-03f2-b0c2026e3504/cover.jpg/316x316bb.webp",
+    "title": "Multo - Single",
+    "embed": "https://embed.music.apple.com/us/album/multo-single/1766905823"
+  },
+  {
+    "id": 90,
+    "artist": "Radiohead",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/316x316bb.webp",
+    "title": "OK Computer",
+    "embed": "https://embed.music.apple.com/us/album/ok-computer/1097861387"
+  },
+  {
+    "id": 91,
+    "artist": "For Revenge",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/7a/fd/187afd3b-ce83-f444-d46f-24e7dc998f5d/cover.jpg/316x316bb.webp",
+    "title": "Perayaan Patah Hati Babak 1",
+    "embed": "https://embed.music.apple.com/us/album/perayaan-patah-hati-babak-1/1642960402"
+  },
+  {
+    "id": 92,
+    "artist": "Lauv",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3d/e5/5c3de510-1123-0da6-9531-318d9597159c/5056167107347_Cover.jpg/316x316bb.webp",
+    "title": "I Met You When I Was 18 (The Playlist)",
+    "embed": "https://embed.music.apple.com/us/album/i-met-you-when-i-was-18-the-playlist/1771701881"
+  },
+  {
+    "id": 93,
+    "artist": "R.City",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/ef/93/89ef935b-8a7d-5c78-ba16-e02a82632913/dj.moqmmhzx.jpg/316x316bb.webp",
+    "title": "What Dreams Are Made Of",
+    "embed": "https://embed.music.apple.com/us/album/what-dreams-are-made-of/1031371160"
+  },
+  {
+    "id": 94,
+    "artist": "Guns N' Roses",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/4d/c4/a04dc484-03cc-02aa-fa82-5334fcb4bc16/18UMGIM24878.rgb.jpg/316x316bb.webp",
+    "title": "Appetite for Destruction",
+    "embed": "https://embed.music.apple.com/us/album/appetite-for-destruction/1377813284"
+  },
+  {
+    "id": 95,
+    "artist": "Gigi Perez",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ff/86/27/ff862726-837f-7895-a8dd-dc35adca1209/Job06658366-98df-4385-a9a4-e1ebaf524f3c-191602329-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_375177935_2143606949-Time1746172075200.png/316x316bb.webp",
+    "title": "At the Beach in Every Life",
+    "embed": "https://embed.music.apple.com/us/album/at-the-beach-in-every-life/1807389775"
+  },
+  {
+    "id": 96,
+    "artist": "Padi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/f7/88/b1f7883c-2202-7f36-fd8a-e2e6500916b3/199806996744.jpg/316x316bb.webp",
+    "title": "28",
+    "embed": "https://embed.music.apple.com/us/album/28/1870467667"
+  },
+  {
+    "id": 97,
+    "artist": "Seventeen Plus",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/0b/de/b00bde7c-29c6-ebbf-c64f-c3f921393a1f/198025065989.jpg/316x316bb.webp",
+    "title": "Bang Dem",
+    "embed": "https://embed.music.apple.com/us/album/bang-dem/1681687520"
+  },
+  {
+    "id": 98,
+    "artist": "Incubus",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/a4/c1/dda4c166-da07-ba22-60e4-499b477c6e77/mzi.ffqrqnqb.jpg/316x316bb.webp",
+    "title": "Make Yourself",
+    "embed": "https://embed.music.apple.com/us/album/make-yourself/187454164"
+  },
+  {
+    "id": 99,
+    "artist": "Kerispatih",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/de/f3/e7/def3e733-c8a8-818a-a077-2ef50371af0b/190295124229.jpg/316x316bb.webp",
+    "title": "Kejujuran Hati",
+    "embed": "https://embed.music.apple.com/us/album/kejujuran-hati/1542650533"
+  },
+  {
+    "id": 100,
+    "artist": "Samsons",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5f/6e/0d/5f6e0d5f-632c-549d-93b3-a77a6e9407c2/08UMGIM13043.rgb.jpg/316x316bf.webp",
+    "title": "Naluri Lelaki (Special Edition)",
+    "embed": "https://embed.music.apple.com/us/album/naluri-lelaki-special-edition/1443625277"
   }
-
 ]
