@@ -11,7 +11,8 @@
     "artist": "Dewa 19",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyVifmxKK9use9cevpFLMeDY5Xf3gtvCXV7qMQfHqLw&s=10",
     "title": "Aku Milikmu",
-    "embed": "https://embed.music.apple.com/us/album/format-masa-depan/534882584"
+    "embed": "https://embed.music.apple.com/us/album/format-masa-depan/534882584",
+    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/e8/dd/0fe8dd0e-619e-4b8f-4255-f3484171f7d9/mzaf_13563236127709543244.plus.aac.p.m4a"
   },
   {
     "id": 3,
@@ -142,9 +143,9 @@
   {
     "id": 21,
     "artist": "Alan Walker",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/3_LWRUNFJTxcEd6Ibp8tdQ/316x316cc.webp",
-    "title": "Alan Walker Essentials",
-    "embed": "https://embed.music.apple.com/us/playlist/alan-walker-essentials/pl.6e374be22e00430e9cacbb44d304df45"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/a3/1a/0da31af7-d0ff-9bee-c427-1b6d0336f6fc/886446321981.jpg/316x316bb.webp",
+    "title": "Faded - EP",
+    "embed": "https://embed.music.apple.com/us/album/faded-ep/1196294554"
   },
   {
     "id": 22,
@@ -205,9 +206,9 @@
   {
     "id": 30,
     "artist": "Neck Deep",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/s2tSDB9Z0os9UfleB1Lcaw/316x316cc.webp",
-    "title": "Neck Deep Essentials",
-    "embed": "https://embed.music.apple.com/us/playlist/neck-deep-essentials/pl.503e8ad3d4b649c4ae91ad681261d418"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/7d/23/4b7d236a-993e-ae1a-a0d9-1c054056bba7/3308.jpg/316x316bb.webp",
+    "title": "Life's Not Out to Get You",
+    "embed": "https://embed.music.apple.com/us/album/lifes-not-out-to-get-you/1716631795"
   },
   {
     "id": 31,
@@ -477,7 +478,7 @@
   },
   {
     "id": 69,
-    "artist": "Bts",
+    "artist": "BTS",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/316x316bb.webp",
     "title": "Love Yourself 結 'Answer'",
     "embed": "https://embed.music.apple.com/us/album/love-yourself-%E7%B5%90-answer/1598730614"
@@ -491,10 +492,10 @@
   },
   {
     "id": 71,
-    "artist": "Bts",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/vawK14xvwS3pMKdukKjaGg/316x316cc.webp",
-    "title": "BTS Essentials",
-    "embed": "https://embed.music.apple.com/us/playlist/bts-essentials/pl.e5a782b2b5424d1bbd6b5b9ac04d09a0"
+    "artist": "BTS",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/a2/b4/e0a2b443-7969-b57a-a591-cb6172c10aa7/198704943959_Cover.jpg/316x316bb.webp",
+    "title": "Arirang",
+    "embed": "https://embed.music.apple.com/us/album/arirang/1868481904"
   },
   {
     "id": 72,
