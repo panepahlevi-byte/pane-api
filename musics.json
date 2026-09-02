@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "artist": "Geisha",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/63/15/db6315b5-0745-31ec-84a4-d0dd3b4c5f08/24UMGIM63169.rgb.jpg/316x316bf.webp",
-    "title": "Love Recalls - EP",
-    "embed": "https://embed.music.apple.com/us/album/love-recalls-ep/1751668654",
-    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/99/56/f6995621-ca26-2b43-0313-13ceee45108e/mzaf_5467561768711285354.plus.aac.p.m4a"
+    "artist": "Alex Crichton",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/68/80/db6880fb-9032-b17a-d082-6f00620c50c4/3b72e539-6ee5-430b-bea2-4e1c9cddd475.jpg/316x316bb.webp",
+    "title": "Merry Christmas I Miss You - Single",
+    "embed": "https://embed.music.apple.com/us/album/merry-christmas-i-miss-you-single/6784789928",
+    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/81/2a/10812ae6-19c6-9e0d-6daa-01536638d123/mzaf_13448019751749227987.plus.aac.p.m4a"
   },
   {
     "id": 2,
@@ -33,11 +33,11 @@
   },
   {
     "id": 5,
-    "artist": "Nadin Amizah",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/10/9b/1d109b17-1bbf-1894-e774-4d9ad6baa7b3/cover.jpg/316x316bb.webp",
-    "title": "Selamat Ulang Tahun",
-    "embed": "https://embed.music.apple.com/us/album/selamat-ulang-tahun/1512860740",
-    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/5f/0f/695f0f18-4d4a-e00f-557a-482ba64c4390/mzaf_16230878472979709887.plus.aac.p.m4a"
+    "artist": "Why Don't We",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ff/0d/37/ff0d37c4-ea63-a7f3-b216-b5df4ed5311d/075679865298.jpg/316x316bb.webp",
+    "title": "8 Letters",
+    "embed": "https://embed.music.apple.com/us/album/8-letters/1423280409",
+    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/19/29/441929b4-2f63-83a2-01f4-2a1ae5585edc/mzaf_16211483878496826961.plus.aac.p.m4a"
   },
   {
     "id": 6,
@@ -249,10 +249,11 @@
   },
   {
     "id": 32,
-    "artist": "Chryrtal",
+    "artist": "Crystal",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/06/16/8c06167d-14ce-161e-9ab9-2c3e5453e6c8/25UMGIM52929.rgb.jpg/316x316bb.webp",
     "title": "The Days (Remixes)",
-    "embed": "https://embed.music.apple.com/us/album/the-days-remixes/1806340222"
+    "embed": "https://embed.music.apple.com/us/album/the-days-remixes/1806340222",
+    "audio_url": null
   },
   {
     "id": 33,
@@ -272,10 +273,11 @@
   },
   {
     "id": 35,
-    "artist": "D`MASIV",
+    "artist": "D'MASIV",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c7/05/50c70557-dcc3-16be-59c4-1f71e6320f34/24UMGIM47804.rgb.jpg/316x316bb.webp",
     "title": "8",
-    "embed": "https://embed.music.apple.com/id/album/8/1743672419"
+    "embed": "https://embed.music.apple.com/id/album/8/1743672419",
+    "audio_url": null
   },
   {
     "id": 36,
@@ -306,14 +308,16 @@
     "artist": "Suara Kayu",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/72/aa/9972aae1-78a6-d539-ed99-4c7ab75577d9/5021732423931.jpg/316x316bb.webp",
     "title": "Banyak Canda, Tapi Serius",
-    "embed": "https://embed.music.apple.com/id/album/banyak-canda-tapi-serius/1755352376"
+    "embed": "https://embed.music.apple.com/id/album/banyak-canda-tapi-serius/1755352376",
+    "audio_url": null
   },
   {
     "id": 40,
     "artist": "The Jansen",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/1a/01/641a0153-e950-c752-d75c-4da281b9dcd4/cover.jpg/316x316bb.webp",
     "title": "Banal Semakin Binal",
-    "embed": "https://embed.music.apple.com/us/album/banal-semakin-binal/1826179940"
+    "embed": "https://embed.music.apple.com/us/album/banal-semakin-binal/1826179940",
+    "audio_url": null
   },
   {
     "id": 41,
@@ -469,11 +473,11 @@
   },
   {
     "id": 60,
-    "artist": "Why Don't We",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ff/0d/37/ff0d37c4-ea63-a7f3-b216-b5df4ed5311d/075679865298.jpg/316x316bb.webp",
-    "title": "8 Letters",
-    "embed": "https://embed.music.apple.com/us/album/8-letters/1423280409",
-    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/19/29/441929b4-2f63-83a2-01f4-2a1ae5585edc/mzaf_16211483878496826961.plus.aac.p.m4a"
+    "artist": "Nadin Amizah",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/10/9b/1d109b17-1bbf-1894-e774-4d9ad6baa7b3/cover.jpg/316x316bb.webp",
+    "title": "Selamat Ulang Tahun",
+    "embed": "https://embed.music.apple.com/us/album/selamat-ulang-tahun/1512860740",
+    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/5f/0f/695f0f18-4d4a-e00f-557a-482ba64c4390/mzaf_16230878472979709887.plus.aac.p.m4a"
   },
   {
     "id": 61,
@@ -685,11 +689,11 @@
   },
   {
     "id": 87,
-    "artist": "Alex Crichton",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/68/80/db6880fb-9032-b17a-d082-6f00620c50c4/3b72e539-6ee5-430b-bea2-4e1c9cddd475.jpg/316x316bb.webp",
-    "title": "Merry Christmas I Miss You - Single",
-    "embed": "https://embed.music.apple.com/us/album/merry-christmas-i-miss-you-single/6784789928",
-    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/81/2a/10812ae6-19c6-9e0d-6daa-01536638d123/mzaf_13448019751749227987.plus.aac.p.m4a"
+    "artist": "Geisha",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/63/15/db6315b5-0745-31ec-84a4-d0dd3b4c5f08/24UMGIM63169.rgb.jpg/316x316bf.webp",
+    "title": "Love Recalls - EP",
+    "embed": "https://embed.music.apple.com/us/album/love-recalls-ep/1751668654",
+    "audio_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/99/56/f6995621-ca26-2b43-0313-13ceee45108e/mzaf_5467561768711285354.plus.aac.p.m4a"
   },
   {
     "id": 88,
